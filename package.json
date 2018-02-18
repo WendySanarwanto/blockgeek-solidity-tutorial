@@ -1,0 +1,23 @@
+{
+  "name": "geekt",
+  "version": "0.0.1",
+  "description": "A sample project provided by Blockgeek's [tutorial page](https://blockgeeks.com/guides/solidity/) which demonstrate basic knowledge of Solidity programming.",
+  "main": "  ",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test",
+    "ganache": "ganache-cli -m “sample dog come year spray crawl learn general detect silver jelly pilot”"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WendySanarwanto/blockgeek-solidity-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WendySanarwanto/blockgeek-solidity-tutorial/issues"
+  },
+  "homepage": "https://github.com/WendySanarwanto/blockgeek-solidity-tutorial#readme"
+}
